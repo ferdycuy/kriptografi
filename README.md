@@ -1,7 +1,5 @@
-# source code
 
-
-```python
+```
 def generate_key_matrix(key):
     key = key.upper().replace("J", "I")  # Mengganti 'J' dengan 'I'
     matrix = []
@@ -146,7 +144,7 @@ for i, ciphertext in enumerate(ciphertexts, 1):
         print(f"Decrypted Plaintext {i}: {decrypted_text}\n")
     except ValueError as e:
         print(f"Error pada Ciphertext {i}: {e}")
-
+```
 
 
 # kriptografi
