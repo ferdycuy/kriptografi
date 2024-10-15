@@ -1,6 +1,7 @@
 # kriptografi
 
-![Screenshot 2024-10-15 090835](https://github.com/user-attachments/assets/4b0eef2c-34e1-47fa-bb20-3f794b83841f)
+![Screenshot 2024-10-15 091401](https://github.com/user-attachments/assets/09878395-77bf-46bb-b50e-a73367ec8513)
+
 
 
 # Enkripsi Playfair Cipher
